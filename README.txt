@@ -16,4 +16,4 @@ PROGRAMMING ENVIRONMENT:
 IDE VERSION: pgAdmin 4
 PostgreSQL VERSION: PostgreSQL 13
 
-DIRECTIONS: View the “D191_PA_Rubric" file for further information about the task. View the “Lydia_Strough_D191_PA" file for the report summary. View the “Video_Presentation.mp4” file for a video presentation of the SQL code’s functionality. 
+DIRECTIONS: View the “D191_PA_Rubric.pdf" file for further information about the task. View the “Lydia_Strough_D191_PA.docx" file for the report summary. View the “Video_Presentation.mp4” file for a video presentation of the SQL code’s functionality. 
